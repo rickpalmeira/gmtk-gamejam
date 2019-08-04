@@ -1,0 +1,11 @@
+{
+  "name": "gmtkgamejamrank",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "~4.16.1"
+  }
+}
